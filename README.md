@@ -29,7 +29,7 @@ The goal of this project is to build and optimize machine learning models to pre
 
 ## 🚀 Getting Started
 
-**For project reviewers, please navigate to the [`submissions/`](./submissions/) folder to access all required project deliverables.**
+**For project reviewers, please navigate to the [`Submissions/`](./Submissions/) folder to access all required project deliverables.**
 
 The main submission files include:
 - **Project Report**: Analysis and findings
